@@ -4,7 +4,7 @@
 
   - Clone our git repository first!
   ```
-    git clone https://github.com/rlaekdud/SWdesign_2NE1.git
+    git clone https://github.com/rlaekdud/Public2NE1.git
   ```
   
   - Open */path/to/git_clone/TeamAssignments#5*.
