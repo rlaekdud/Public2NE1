@@ -7,13 +7,8 @@
     git clone https://github.com/rlaekdud/Public2NE1.git
   ```
   
-  - Open */path/to/git_clone/TeamAssignments#5*.
-  ```
-    cd /path/to/git_clone/TeamAssignments#5
-  ```
-  
   - And build!
-  ``` 
+  ```
     make
   ```
   
